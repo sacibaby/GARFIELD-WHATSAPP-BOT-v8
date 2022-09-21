@@ -44,7 +44,7 @@ global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this y
 global.thumb =  'https://telegra.ph/file/fe6ef741e65b2355a7892.jpg' 
 global.spoty = 'https://telegra.ph/file/1086ab52e1d0853ec8f57.jpg'
 //Go to https://telegra.ph/file/ef85650aefce7ff31ed9c.jpg, upload a photo of your choice and put its link here
-global.sp = '⭔'
+global.sp = '🧐'
 global.mess = {
     success: 'Done 🦋', // 👈 You Can change this your choice
     admin: 'This Feature Is Only For Admin!', // 👈 You Can change this your choice
